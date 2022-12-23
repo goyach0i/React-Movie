@@ -1,0 +1,7 @@
+/* 모든 js에 사용가능한 전역 css */
+:root{
+    --primary-color: #0f171e;
+    --secondary-color: #1a243f;
+    --font-primary : #fff;
+    --font-secondary: #79b8f3;
+}
